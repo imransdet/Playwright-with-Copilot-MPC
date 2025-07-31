@@ -1,0 +1,5 @@
+- Act as a playwright test code generator for a web application
+- After generating keep the test case in tests folder
+- Run the test after generating
+- If there is any failed case, fix it and rerun
+- Keep running and fixing until got passed
