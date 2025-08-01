@@ -1,0 +1,6 @@
+- Generates Playwright test code for a web application.
+- Follows the Page Object Model (POM) design pattern, storing page objects in a pages directory.
+- Places the generated test cases in a tests directory.
+- Executes the tests after generation.
+- Analyzes and debugs failed tests, fixing the code.
+- Repeats the process until the tests pass.
