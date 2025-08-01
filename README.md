@@ -1,14 +1,3 @@
-- Now open the copilot chat
-- Make sure MPC Server is running
-- Attach the `context.txt`
-- Then put the individual test case's prompt, for example 
-
-## Test Results Summary
-![Test Results Summary](screenshots/test-results-summary.png)
-
-## Test Results Details
-![Test Results Details](screenshots/test-results-details.png)
-
 ## Playwright with GitHub Copilot and MCP Server
 ![MCP Main Thumbnail](screenshots/mcp.png)
 
