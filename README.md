@@ -26,7 +26,7 @@
 
 ![MCP Installed](screenshots/mcp_installed.png)
 
-### Generate Test Cases
+## Generate Test Cases
 - Write a common prompt (context) in a `.txt` file and keep it anywhere in the project, for example:
 
 ```
