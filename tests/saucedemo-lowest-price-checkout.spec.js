@@ -1,8 +1,8 @@
 const { test, expect } = require('@playwright/test');
 const { LoginPage, InventoryPage, CartPage, CheckoutPage } = require('../pages/SauceDemoPages');
 
-const USERNAME = 'standard_user';
-const PASSWORD = 'secret_sauce';
+const USERNAME = process.env.USERNAME;
+const PASSWORD = process.env.PASSWORD;
 
 test('Login, add lowest price product, and checkout', async ({ page }) => {
   const loginPage = new LoginPage(page);
